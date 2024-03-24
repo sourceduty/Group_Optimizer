@@ -33,7 +33,7 @@ Taylor - Has a background in food science with 3 years of experience, interested
 
 Now, let's simulate each member in every position possibility to find the optimal structure:
 
-Sales Manager: Given Alex's experience in sales management and desire to lead, Larry is the optimal choice for this position.
+Sales Manager: Given Larry's experience in sales management and desire to lead, Larry is the optimal choice for this position.
 
 Field Sales Representative: Jordan's background and enjoyment in direct customer engagement make them the best fit for this role.
 
