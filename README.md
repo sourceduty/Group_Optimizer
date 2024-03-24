@@ -25,7 +25,7 @@ Product Development Specialist
 
 Next, we'll create example experiences and desires for each team member:
 
-Alex - Has 5 years of experience in sales management with a desire to lead teams and strategize sales plans.
+Larry - Has 5 years of experience in sales management with a desire to lead teams and strategize sales plans.
 Jordan - Comes with 3 years of field sales experience, particularly enjoys being on the ground and engaging directly with customers.
 Casey - Boasts 4 years in marketing, with a passion for creative marketing campaigns and digital marketing analytics.
 Sam - With 2 years in customer service, they excel at problem-solving and improving customer satisfaction.
@@ -33,7 +33,7 @@ Taylor - Has a background in food science with 3 years of experience, interested
 
 Now, let's simulate each member in every position possibility to find the optimal structure:
 
-Sales Manager: Given Alex's experience in sales management and desire to lead, Alex is the optimal choice for this position.
+Sales Manager: Given Alex's experience in sales management and desire to lead, Larry is the optimal choice for this position.
 
 Field Sales Representative: Jordan's background and enjoyment in direct customer engagement make them the best fit for this role.
 
@@ -45,7 +45,7 @@ Product Development Specialist: Taylor's background in food science and interest
 
 Based on the simulation and considering the experiences and desires of each team member, the optimized orange juice sales team would be:
 
-Sales Manager: Alex
+Sales Manager: Larry
 Field Sales Representative: Jordan
 Marketing Coordinator: Casey
 Customer Service Specialist: Sam
@@ -54,7 +54,7 @@ Product Development Specialist: Taylor
  ```
 Optimized Orange Juice Sales Team Structure:
 
-1. Sales Manager: Alex
+1. Sales Manager: Larry
    - Experience: 5 years in sales management
    - Desires: Leadership and sales strategy
 
