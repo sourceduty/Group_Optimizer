@@ -8,8 +8,6 @@ By meticulously simulating each member in every conceivable role, numerous confi
 
 In essence, the role is to streamline the complex process of team formation, transforming it into a strategic and informed decision-making exercise, ultimately leading to the creation of a cohesive and balanced unit poised for success in their collective endeavors.
 
-> Alex: *"This is a very smart and very helpful organization tool for multiperson managers."*
-
 <details><summary>Orange Juice Sales Team Example</summary>
 
  ```
@@ -76,6 +74,10 @@ Optimized Orange Juice Sales Team Structure:
  ```
 
 </details>
+
+***
+
+> Alex: *"This is a very smart and very helpful organization tool for multiperson managers."*
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
