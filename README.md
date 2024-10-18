@@ -84,6 +84,16 @@ Optimized Orange Juice Sales Team Structure:
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Social Simulator](https://github.com/sourceduty/Social_Simulator)
+<br>
+[Social Prep](https://github.com/sourceduty/Social_Prep)
+<br>
+[Weddings](https://github.com/sourceduty/Weddings)
+<br>
+[Government](https://github.com/sourceduty/Government)
+<br>
+[Sociology](https://github.com/sourceduty/Sociology)
+<br>
+[Chat Simulator](https://github.com/sourceduty/Chat_Simulator)
 
 ***
 
