@@ -95,7 +95,7 @@ Optimized Orange Juice Sales Team Structure:
 <br>
 [Chat Simulator](https://github.com/sourceduty/Chat_Simulator)
 
-***
+#
 
 > Alex: *"This is a very smart and very helpful organization tool for multiperson managers."*
 
