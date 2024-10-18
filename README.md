@@ -1,4 +1,4 @@
-![Group Optimizer](https://github.com/sourceduty/Group_Optimizer/assets/123030236/6900765c-969a-479d-aaac-b851905b7741)
+![Group Optimizer](https://github.com/user-attachments/assets/0b5df6b9-a8ab-47f3-9143-90432aa2228d)
 
 > Use AI to simulate individual team, group or movie cast member positions and optimize collective utilization.
 #
